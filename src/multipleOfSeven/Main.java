@@ -11,6 +11,7 @@ public class Main {
 
 		String message = (remainder == 0) ? "É MULTIPLO DE 7" : "ESSE NÃO É";
 		System.out.println(message);
+
 		sc.close();
 	}
 }
